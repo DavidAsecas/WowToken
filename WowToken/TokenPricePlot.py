@@ -21,5 +21,7 @@ class WowPlot():
         graph.clear()
         graph.plot(self.date,self.price)
 
+        #something
+
     def clearPlot(self): 
         plot.clf()
