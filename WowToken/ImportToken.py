@@ -34,4 +34,3 @@ while(ex):
         token.getGraphByRegion('CN')
     else:
         ex = False
-    # token.clearPlot()
